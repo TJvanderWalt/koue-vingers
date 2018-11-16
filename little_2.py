@@ -14,4 +14,4 @@ name = input()
 print("Hello", name)
 
 '''Your attempt?
-First comment out my code and then add yours'''
+First comment out my code and then add your code'''
