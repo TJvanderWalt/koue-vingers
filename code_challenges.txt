@@ -1,0 +1,16 @@
+Coding challenges help you to become a "computational thinker" as stated in 
+"The little book of programming challenges" 
+
+At the same time, writing programs can be frustrating - if you get 
+stuck don't give up!
+# Use the internet for help (but not the answer!)
+# Use the help features of the programming development environment.
+# Use features like break points and variable watches to try to
+work out what is happening if the program doesn’t seem to
+work.
+# Work with other students on the course— "two heads are better than one"
+
+The book (find it on the internet!) poses 27 challenges: files little_1 through little_27 
+contain Python code to address these challenges
+
+Try improve on these solutions by collaborating on GitHub
